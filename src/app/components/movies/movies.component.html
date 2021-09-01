@@ -1,0 +1,2 @@
+<app-movie-item *ngFor="let movie of movies | paginate: { itemsPerPage: 5, currentPage: p, totalItems: total }" [movie]="movie"></app-movie-item>
+<pagination-controls (pageChange)="p = $event"></pagination-controls>

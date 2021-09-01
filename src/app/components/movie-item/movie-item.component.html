@@ -1,0 +1,9 @@
+<div class="movie">
+
+    <h3 class="title">{{movie.title}}</h3>
+    <img src="{{movie.posterUrl}}"/>
+    <p>{{movie.plot}}</p>
+    <button class="button" routerLink="/movie-info" (click)=setInfo(movie)>More information</button>
+</div>
+
+<hr>
