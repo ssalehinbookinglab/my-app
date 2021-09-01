@@ -26,7 +26,7 @@ export const MOVIES: Movie[] = [
             "Drama"
         ],
         "director": "Alexander Payne",
-        "actors": "Bruce Dern, Will Forte, June Squibb, Bob Odenkirk",
+        "actors": "Bruce Dern, Will Forte, June Squibb, Bob Odenkirk ",
         "plot": "An aging, booze-addled father makes the trip from Montana to Nebraska with his estranged son in order to claim a million-dollar Mega Sweepstakes Marketing prize.",
         "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2Mjk2NDkyMl5BMl5BanBnXkFtZTgwNTk0NzcyMDE@._V1_SX300.jpg"
     },
